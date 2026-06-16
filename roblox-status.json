@@ -1,0 +1,23 @@
+{
+  "roblox": {
+    "currentVersion": "version-76173e47a79145c7",
+    "previousVersion": "version-ad5d3e2906444472",
+    "status": "working",
+    "lastUpdated": "09/06/2026T11:25:00Z"
+  },
+  "executors": [
+    {
+      "id": "Madium",
+      "name": "Madium",
+      "icon": "👽",
+      "currentVersion": "v1.5.6",
+      "previousVersion": "v1.5.6",
+      "status": "updating",
+      "downloadUrl": "https://getmadium.net/",
+      "oldDownloadUrl": "none",
+      "lastUpdated": "Tue, Jun 9, 5:23 AMZ"
+    }
+  ],
+  "downloadLinks": [
+  ]
+}
